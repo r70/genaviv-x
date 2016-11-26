@@ -1,0 +1,15 @@
+/*
+Postmodern: A mongrel stylesheet for What.CD, based on 'Zeal', a modification of the original 'Teal' by pellad.
+This design incorporates some code from the 'Customize Zeal' Greasemonkey script by OhmG. The background image is also sourced from that script.
+*/
+
+@import url(//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+@import 'https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i';
+@charset "UTF-8";
+@import 'https://fonts.googleapis.com/css?family=Inconsolata';
+@import 'css/color/dg.css';
+@import 'css/color-site/dg-wcd.css';
+@import 'css/global/geometry.css';
+@import 'css/shade/dark.css';
+@import 'css/site/wcd.css';
+@import 'css/mod/nobanner.css';

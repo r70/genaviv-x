@@ -1,0 +1,6 @@
+div#logo{width:66px;height:66px;margin:0 auto;background-size:66px 66px}
+div#logo a{display:block;width:66px;height:66px;margin:0 auto}
+#header #logo{margin-top:10px;margin-bottom:10px}
+.autocomplete-suggestion{padding:5px}
+#header{background-image:url("https://i.sli.mg/Xg0ZBN.png");}
+.hidden{position:absolute;left:-10000px;}
